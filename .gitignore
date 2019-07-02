@@ -3,3 +3,9 @@
 *.pytest_cache
 *.pyc
 *__pycache__
+
+.nbgrader.*
+
+module_1/week_2/day_2_cleaning_data_pandas/data/EXTR_ResBldg.csv
+module_1/week_2/day_2_cleaning_data_pandas/data/Real Property Sales.zip
+module_1/week_2/day_2_cleaning_data_pandas/data/EXTR_RPSale.csv
